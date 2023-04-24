@@ -1,0 +1,8 @@
+frontend/node_modules/
+backend/vendor/
+backend/vendor/node_modules/
+backend/vendor/public/storage/
+backend/vendor/storage/*.key/
+backend/vendor/storage/logs/
+backend/vendor/storage/debugbar/
+backend/vendor/bootstrap/cache/
