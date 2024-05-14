@@ -97,10 +97,12 @@ define('DB_HOST', 'your_db_host');
 define('DB_NAME', 'your_db_name');
 define('DB_USER', 'your_db_user');
 define('DB_PASS', 'your_db_password');
-Frontend Configuration
+```
+### Frontend Configuration
 Update the .env file in the frontend directory:
-
+```
 VUE_APP_API_URL=http://localhost:8000/api
+```
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
